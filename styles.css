@@ -47,7 +47,7 @@
     gap: 0.5rem;
 }
 .card .card-body .rating .positive {
-    color: green; /* Color de la valoración positiva */
+    color: green;
 }
 .card .card-body .rating .negative {
     color: red;
